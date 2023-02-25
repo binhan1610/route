@@ -1,0 +1,13 @@
+.conteiner{
+    margin: 20px 600px;
+    padding: 1px solid black;
+    background-color: rgb(177, 177, 222);
+    max-width: 500px;
+    max-height: 500px;
+
+ 
+}
+.conteiner .mb-3{
+    margin: 20px 0px
+ 
+}
